@@ -11,6 +11,7 @@
             "mode": "debug",
             "program": "${workspaceRoot}/src/main.go",
             "showLog": true,
+            "args":["8001"]
         }
     ]
 }

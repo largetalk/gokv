@@ -9,4 +9,5 @@
     },
     "go.gopath": "${workspaceRoot}",
     "go.logging.level": "info",
+    "go.goroot": "${workspaceRoot}",
 }
