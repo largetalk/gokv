@@ -36,6 +36,7 @@ func main() {
 			fmt.Println("Please provide a port number!")
 			return
 	}
+	TestRing()
 
 	PORT := ":" + arguments[1]
 	l, err := net.Listen("tcp4", PORT)
